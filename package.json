@@ -1,0 +1,23 @@
+{
+  "name": "daily-grind-server",
+  "version": "1.0.0",
+  "description": "By Uchenna Williams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unw10181/lab12.1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unw10181/lab12.1/issues"
+  },
+  "homepage": "https://github.com/unw10181/lab12.1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
